@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/theswasthya/static/css/main.4ed22d37.chunk.css",
+    "main.js": "/theswasthya/static/js/main.73f9e05c.chunk.js",
+    "main.js.map": "/theswasthya/static/js/main.73f9e05c.chunk.js.map",
+    "runtime-main.js": "/theswasthya/static/js/runtime-main.58681ff0.js",
+    "runtime-main.js.map": "/theswasthya/static/js/runtime-main.58681ff0.js.map",
+    "static/css/2.c9d92586.chunk.css": "/theswasthya/static/css/2.c9d92586.chunk.css",
+    "static/js/2.2265e27b.chunk.js": "/theswasthya/static/js/2.2265e27b.chunk.js",
+    "static/js/2.2265e27b.chunk.js.map": "/theswasthya/static/js/2.2265e27b.chunk.js.map",
+    "static/js/3.b2a898f8.chunk.js": "/theswasthya/static/js/3.b2a898f8.chunk.js",
+    "static/js/3.b2a898f8.chunk.js.map": "/theswasthya/static/js/3.b2a898f8.chunk.js.map",
+    "index.html": "/theswasthya/index.html",
+    "static/css/2.c9d92586.chunk.css.map": "/theswasthya/static/css/2.c9d92586.chunk.css.map",
+    "static/css/main.4ed22d37.chunk.css.map": "/theswasthya/static/css/main.4ed22d37.chunk.css.map",
+    "static/js/2.2265e27b.chunk.js.LICENSE.txt": "/theswasthya/static/js/2.2265e27b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/theswasthya/static/media/logo.6ce24c58.svg",
+    "static/media/nurses.d8c6b390.jpg": "/theswasthya/static/media/nurses.d8c6b390.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58681ff0.js",
+    "static/css/2.c9d92586.chunk.css",
+    "static/js/2.2265e27b.chunk.js",
+    "static/css/main.4ed22d37.chunk.css",
+    "static/js/main.73f9e05c.chunk.js"
+  ]
+}
